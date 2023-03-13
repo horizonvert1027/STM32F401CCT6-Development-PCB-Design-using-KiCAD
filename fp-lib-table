@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name QFPN48)(type KiCad)(uri "$(KIPRJMOD)/QFPN48.pretty")(options "")(descr ""))
+  (lib (name MicroUSB)(type KiCad)(uri "$(KIPRJMOD)/MicroUSB.pretty")(options "")(descr ""))
+  (lib (name crystal)(type KiCad)(uri "$(KIPRJMOD)/crystal.pretty")(options "")(descr ""))
+)
